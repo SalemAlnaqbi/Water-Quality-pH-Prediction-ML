@@ -69,7 +69,7 @@ The project demonstrates best practices in:
 
 ## 📦 Dataset
 
-**Source**: [UCI Machine Learning Repository - Water Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Water+Quality)
+**Source**: [UCI Machine Learning Repository - Water Quality Dataset](https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1)
 
 **Citation**: Zhao, L. (2019). Water Quality Prediction. UCI Machine Learning Repository.
 
@@ -115,7 +115,7 @@ Data Split:
 
 The dataset is included in this repository as `water_dataset.mat` in the Assessment 2 folder.
 
-**External Link**: [Download from UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Water+Quality)
+**External Link**: [Download from UCI ML Repository](https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1)
 
 ### Preprocessing Steps
 
@@ -471,7 +471,7 @@ pH Prediction
 
 ## 📚 References
 
-1. Zhao, L. (2019). Water Quality Prediction. UCI Machine Learning Repository. [https://archive.ics.uci.edu/ml/datasets/Water+Quality](https://archive.ics.uci.edu/ml/datasets/Water+Quality)
+1. Zhao, L. (2019). Water Quality Prediction. UCI Machine Learning Repository. [https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1](https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1)
 
 2. EPA (2023). Water Quality Standards. U.S. Environmental Protection Agency.
 
