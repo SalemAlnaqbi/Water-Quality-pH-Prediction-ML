@@ -468,19 +468,6 @@ pH Prediction
 - **NumPy & Pandas** - Data manipulation and numerical computing
 - **Matplotlib & Seaborn** - Visualization libraries
 
-
-## 📚 References
-
-1. Zhao, L. (2019). Water Quality Prediction. UCI Machine Learning Repository. [https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1](https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1)
-
-2. EPA (2023). Water Quality Standards. U.S. Environmental Protection Agency.
-
-3. Bishop, C.M. (2006). Pattern Recognition and Machine Learning. Springer.
-
-4. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-
-5. MacKay, D.J.C. (2003). Information Theory, Inference, and Learning Algorithms. Cambridge University Press.
-
 ---
 
 <div align="center">
