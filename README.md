@@ -27,7 +27,6 @@
 - [Results](#-results)
 - [Author](#-author)
 - [Acknowledgments](#-acknowledgments)
-- [Future Improvements](#-future-improvements)
 - [References](#-references)
 
 ## 🎯 Overview
@@ -456,8 +455,6 @@ pH Prediction
 
 - GitHub: [@SalemAlnaqbi](https://github.com/SalemAlnaqbi)
 - LinkedIn: [salemalnaqbi](https://www.linkedin.com/in/salemalnaqbi/)
-- Email: Student ID 201914118
-- Program: MSc Artificial Intelligence, University of Leeds
 
 ## 🙏 Acknowledgments
 
@@ -471,44 +468,18 @@ pH Prediction
 - **NumPy & Pandas** - Data manipulation and numerical computing
 - **Matplotlib & Seaborn** - Visualization libraries
 
-### Course & Institution
-- **University of Leeds** - OCOM5200M Machine Learning course
-- **School of Computing** - MSc Artificial Intelligence program
-- **Teaching Staff** - Course instruction and guidance
-
-### References
-- **Bishop, C.M.** - Pattern Recognition and Machine Learning
-- **Goodfellow et al.** - Deep Learning textbook
-- **EPA** - Water quality standards and guidelines
-
-## 🔮 Future Improvements
-
-- [ ] **Spatial Modeling**: Incorporate station proximity and water system connectivity using Graph Neural Networks
-- [ ] **Feature Engineering**: Add seasonal/cyclical features (day of year, month, day of week)
-- [ ] **Ensemble Methods**: Combine Bayesian Ridge and LSTM predictions using weighted averaging or stacking
-- [ ] **Online Learning**: Implement incremental learning for continuous model updates with new data
-- [ ] **Multi-Output Prediction**: Forecast all 11 water parameters simultaneously
-- [ ] **Bayesian Neural Networks**: Combine uncertainty quantification with deep learning
-- [ ] **Anomaly Detection**: Develop outlier detection system for abnormal pH events
-- [ ] **Causal Analysis**: Investigate treatment interventions and their effects on pH
-- [ ] **Mobile Application**: Deploy model on mobile devices for field monitoring
-- [ ] **Real-Time Dashboard**: Create Streamlit/Dash web interface for live predictions
-- [ ] **Extended Dataset**: Gather 5+ years of data to support more complex temporal models
-- [ ] **Meteorological Features**: Include rainfall, air temperature, and humidity data
 
 ## 📚 References
 
 1. Zhao, L. (2019). Water Quality Prediction. UCI Machine Learning Repository. [https://archive.ics.uci.edu/ml/datasets/Water+Quality](https://archive.ics.uci.edu/ml/datasets/Water+Quality)
 
-2. University of Leeds (2025). OCOM5200M Machine Learning: Lecture Notes and Learning Materials. Leeds: University of Leeds, School of Computing.
+2. EPA (2023). Water Quality Standards. U.S. Environmental Protection Agency.
 
-3. EPA (2023). Water Quality Standards. U.S. Environmental Protection Agency.
+3. Bishop, C.M. (2006). Pattern Recognition and Machine Learning. Springer.
 
-4. Bishop, C.M. (2006). Pattern Recognition and Machine Learning. Springer.
+4. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 
-5. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-
-6. MacKay, D.J.C. (2003). Information Theory, Inference, and Learning Algorithms. Cambridge University Press.
+5. MacKay, D.J.C. (2003). Information Theory, Inference, and Learning Algorithms. Cambridge University Press.
 
 ---
 
